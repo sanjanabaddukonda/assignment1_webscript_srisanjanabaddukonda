@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+@media (max-width: 1366px){}
+
 body {
   background: #a4a3a8;
   margin: 0;
